@@ -266,7 +266,6 @@ if uploaded_file:
 
 
 def intro():
-    st.write("#### :warning: :red[Warning: This software is for Non-numerical data analytics only!!! ] ####")
     st.write("##### :red[:warning: Don't forget to prepare your data !! ] #####")
 
 
